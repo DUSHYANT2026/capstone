@@ -231,7 +231,7 @@ export default function Home() {
                     : "from-orange-500 to-purple-600"
                 } transition duration-500 hover:scale-105`}
               >
-                All About Coding
+                Vision Forge
               </h1>
               <div
                 className={`text-lg space-y-3 ${
@@ -259,7 +259,7 @@ export default function Home() {
                     darkMode ? "border-gray-600" : "border-gray-300"
                   } hover:scale-105 transition-all duration-500`}
                   src={"./aac2.jpg"}
-                  alt="ALL ABOUT CODING"
+                  alt="Vision Forge"
                   loading="lazy"
                 />
                 <div

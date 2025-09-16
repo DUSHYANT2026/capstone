@@ -39,7 +39,7 @@ export default function Header() {
           } transition duration-200`}
         >
           <img src="./aac2.jpg" className="mr-2 h-8 rounded-full" alt="Logo" />
-          <span className="hidden sm:inline">AllAboutCoding</span>
+          <span className="hidden sm:inline">Vision Forge</span>
         </Link>
 
         {/* Desktop Navigation in center */}

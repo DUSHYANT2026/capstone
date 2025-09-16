@@ -197,7 +197,7 @@ export default function Footer() {
 
         <div className="text-center border-t border-gray-800 pt-3 flex items-center justify-between">
           <p className="text-gray-400 text-xs">
-            &copy; {currentYear} All About Coding. All rights reserved.
+            &copy; {currentYear} Vision Forge. All rights reserved.
           </p>
           <button 
             onClick={scrollToTop} 

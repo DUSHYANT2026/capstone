@@ -211,7 +211,7 @@ export default function About() {
                   : "from-orange-500 via-red-500 to-purple-600"
               } mb-3`}
             >
-              Welcome to All About Coding
+              Welcome to Vision Forge
             </h1>
             <p
               className={`max-w-2xl mx-auto text-lg ${
@@ -234,7 +234,7 @@ export default function About() {
                 >
                   <img
                     src={"./aac2.jpg"}
-                    alt="All About Coding"
+                    alt="Vision Forge"
                     className="w-full h-auto"
                     loading="lazy"
                   />
